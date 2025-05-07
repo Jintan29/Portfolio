@@ -326,7 +326,7 @@ const Project = () => {
                     rel="noopener noreferrer"
                     className="w-full h-full"
                     >
-                      <button className="w-full h-full flex justify-center items-center gap-2 bg-slate-700 rounded-md">
+                      <button className="w-full h-full md:min-h-[40px] flex justify-center items-center gap-2 bg-slate-700 rounded-md">
                         <FaCode /> View Source
                       </button>
                     </Link>

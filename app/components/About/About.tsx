@@ -58,7 +58,7 @@ const About = () => {
                         duration:0.8
                     }}
                     className='my-3' style={{textIndent: '2rem'}}>
-                        Hello , I'm Sutthipphat Kriklin  a recent graduate with a Bachelor's degree in Computer Engineering. I am particularly
+                        Hello , I'm Sutthiphat Kriklin  a recent graduate with a Bachelor's degree in Computer Engineering. I am particularly
                      interested in pursuing opportunities in <span className='text-primary'>backend development</span> and <span className='text-primary'>full-stack development</span> roles.
                     </motion.p>
                     <motion.p 

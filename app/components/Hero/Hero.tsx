@@ -77,7 +77,7 @@ const Hero = () => {
               <motion.h2
               // ใส่แล้วจะค่อยๆตามมาหลัง parant ไล่ลำดับลงไปอันล่างช้าสุด
               variants={childVaraints}
-              className="pb-2 text-4xl tracking-wider lg:text-8xl bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-transparent">
+              className="pb-2 text-2xl tracking-wider lg:text-8xl bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-transparent">
                 Full Stack Developer
               </motion.h2>
               <motion.h3
